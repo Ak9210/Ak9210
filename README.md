@@ -1,4 +1,8 @@
-# Hi there! 👋 I'm Ak9210
+
+
+
+  # Hi there! 👋 I'm Ak9210
+
 
 Welcome to my GitHub profile! I'm Ak, a passionate software engineer with a love for building scalable web applications and exploring new technologies.
 
@@ -8,8 +12,12 @@ Welcome to my GitHub profile! I'm Ak, a passionate software engineer with a love
 - 💬 Let's connect and chat about anything tech, whether it's the latest JavaScript frameworks or the future of artificial intelligence.
 - 📫 Reach me via email at akshatsharma1403@yahoo.com.
 
-## About Me
-I hold a degree in Computer Science and have been working in the software development field for the past 5 years. My experience ranges from front-end development with React to back-end development using Node.js and Express.
+  <div style="background-color:#f0f0f0; padding: 20px; border-radius: 10px;">
+  <h2>About Me</h2>
+  <p>I hold a degree in Computer Science and have been working in the software development field for the past 5 years. My experience ranges from front-end development with React to back-end development using Node.js and Express.</p>
+</div>
+
+
 
 ## Technologies and Tools
 - **Languages:** JavaScript, HTML, CSS, Python
