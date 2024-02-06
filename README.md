@@ -12,10 +12,8 @@ Welcome to my GitHub profile! I'm Ak, a passionate software engineer with a love
 - 💬 Let's connect and chat about anything tech, whether it's the latest JavaScript frameworks or the future of artificial intelligence.
 - 📫 Reach me via email at akshatsharma1403@yahoo.com.
 
-  <div style="background-color:#f0f0f0; padding: 20px; border-radius: 10px;">
-  <h2>About Me</h2>
-  <p>I hold a degree in Computer Science and have been working in the software development field for the past 5 years. My experience ranges from front-end development with React to back-end development using Node.js and Express.</p>
-</div>
+  ## <span style="color:blue">About Me</span>
+I am a dedicated student with a strong passion for technology. My academic background and hands-on experience in software development have equipped me with valuable skills in both front-end and back-end technologies. Currently, I'm enthusiastic about exploring the intersection of IoT and software development to create innovative solutions.
 
 
 
